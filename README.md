@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <a href="https://twitter.com/sakthipriya_23" target="blank"><img src="https://img.shields.io/twitter/follow/sakthipriya_23?logo=twitter&style=for-the-badge" alt="sakthipriya_23" /></a> </p>
 
-- 🌱 I’m currently learning **React Native**
+- 🌱 I’m currently learning **React native**
 
 - 💬 Ask me about **Web development**
 
